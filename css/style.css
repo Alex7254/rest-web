@@ -73,7 +73,7 @@ li .current{
 
 .start-area {
   width: 100%;
-  background-image: url('https://timeincsecure-a.akamaihd.net/rtmp_uds/1660653193/201803/3083/1660653193_5759211375001_5759027054001-vs.jpg?pubId=1660653193&videoId=5759027054001');
+  background: url('https://timeincsecure-a.akamaihd.net/rtmp_uds/1660653193/201803/3083/1660653193_5759211375001_5759027054001-vs.jpg?pubId=1660653193&videoId=5759027054001');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
